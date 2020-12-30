@@ -51,3 +51,6 @@ footer{
       /*  透明度  */
     opacity: 0.35;
   }
+  body{
+    background: rgb(245, 248, 232);
+  }
